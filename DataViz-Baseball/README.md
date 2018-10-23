@@ -5,4 +5,4 @@ This visualization shows two time series graphs covering the time span from 1871
 
 This specific dataset was provided by Sean Lahman, an award-winning journalist, on www.seanlahman.com. Sean creates historical databases covering a gamut of sports, including baseball, pro and college football, pro and college basketball, auto racing, tennis, boxing and the Olympic games. For this visualization, I merged two spreadsheets together called Batting.csv (which included HRs) and People.csv (which included weights). There were a handful of missing values for player weights but not enough to skew the results.
 
-![History of Home Run](Version3.png)
+![History of Home Run](Version3.jpg)
