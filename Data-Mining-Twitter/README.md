@@ -1,1 +1,5 @@
+# Data Mining with #metoo and #blacklivesmatter tweets
+Racism and sexual harassment are taking center stage in the news today and in social media due to the current racial tension and a deluge of sexual harassment allegations against prominent celebrities and politicians. As such, I wanted to find out whether there’s a difference between two current Twitter movements involving these issues -- #metoo and #blacklivesmatter – as far as engagement and whether there’s a more passionate group. Kicked off in October 2017, #metoo calls for women to share their stories about sexual harassment and #blacklivesmatter was sparked in 2013 by the acquittal of George Zimmerman in the shooting death of African-American teen Trayvon Martin. 
+
+This information could be interesting to the social science community, politicians and businesses to understand how active and passionate people are on social media when talking about race vs. sexual harassment. It could also help prioritize future legislation to combat racism and sexual harassment and identify how and when to engage with people of these two movements.
 
