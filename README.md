@@ -1,4 +1,9 @@
-# Helping Brewers Predict Alcohol by Volume More Accurately
+# Projects
+
+
+
+[Helping Brewers Predict Alcohol by Volume More Accurately](docs/CONTRIBUTING.md)
+
 
 In my final project for my graduate data mining course, I analyzed a dataset of approximately 74,000 homebrewed beer recipes from Brewer’s Friend to predict alcohol by volume (ABV) from various predictor variables. Currently, there is a standard formula for estimating ABV, which is the difference between the original and final gravities multiplied by 131.25. These gravity readings refer to the total amount of dissolved sugars in the beer before (original gravity) and after (final gravity) fermentation, the process which creates alcohol. My goal for this project was to build a more accurate predictive model (than this traditional method) to estimate ABV using appropriate data mining techniques. I also wanted to confirm whether original gravity and final gravity are the most influential factors to estimate ABV or if there are other variables contributing to the accuracy of my model(s). 
 
