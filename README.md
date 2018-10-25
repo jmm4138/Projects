@@ -6,5 +6,4 @@
 
 [The History of the Home Run](DataViz-Baseball) -- This data visualization project leveraged Tableau to uncover insights about why the number of home runs have increased significantly since the first game in 1871.
 
-
-  
+[Forecasting Incoming Cardiovascular Examinations for Fargo Health Group](Forecasting_CardioExams) -- This project explored patient information from Fargo Health Group (a fake company), addressed data quality issues, leveraged forecasting techniques, and provided recommendations for keeping consistent data and addressing volume in the future. 
